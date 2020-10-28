@@ -1,0 +1,2 @@
+31/10/2019 03:19:02|181.36.196.252|dominicana|(KHTML, like Gecko)|
+31/10/2019 03:19:02|108.161.168.22|CPEac84c68ad895-CM3c754a752fef.tpia.videotron.ca|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36 Edg/78.0.276.20|

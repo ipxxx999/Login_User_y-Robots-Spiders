@@ -1,0 +1,7 @@
+31/10/2019 03:19:02|181.36.196.252|dominicana|(KHTML, like Gecko)|
+31/10/2019 03:19:02|108.161.168.22|CPEac84c68ad895-CM3c754a752fef.tpia.videotron.ca|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36 Edg/78.0.276.20|
+26/10/2020 03:26:12|108.161.168.53|108.161.168.53|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+26/10/2020 03:35:34|108.161.168.53|108.161.168.53|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+26/10/2020 03:44:12|108.161.168.53|108.161.168.53|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+26/10/2020 04:01:53|108.161.168.53|108.161.168.53|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+26/10/2020 11:57:50|108.161.168.53|108.161.168.53|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|

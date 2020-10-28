@@ -1,0 +1,47 @@
+//  =====================================================================================
+//    CÓDIGO QUE DEBES PONER EN TODAS TUS PÁGINAS PARA VER LAS VISITAS DE TUS CLIENTES
+//  =====================================================================================
+
+
+<p><iframe src="http://tu_sitio_web.com/robot/ver/php/visitor3.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="0" height="0"></iframe>
+
+
+//  =====================================================================================
+//                                 FIN CÓDIGO 
+//  =====================================================================================
+
+1- BUSCA este repertorio php
+
+2- en los 3 php
+
+visitor.php
+visitor2.php y
+visitor3.php
+
+
+3- BUSCA ESTA LÍNEA
+
+            $directory = $_SERVER['DOCUMENT_ROOT'] . '/robot/ver/php/';
+//  ===========================================================================
+
+
+
+
+Y MOFIFICALA SEGUN EN EL DIRECTORIO DONDE quieras usar tus PHP
+
+DEBE MODIFICAR LOS TRES PHP EN ESA LÍNEA
+
+visitor.php
+visitor2.php
+visitor3.php
+
+
+4- EN ESTE MOMENTO SE ENCUENTRAN CONFIGURADOS, DE ESTA FORMA
+
+http://tu_sitio_web.com/ ---->>>>> '/robot/ver/php/'
+
+
+ejemplo de arriva 
+
+'/robot/ver/php/'
+

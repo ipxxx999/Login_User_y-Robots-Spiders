@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>Sitemap</title>
+  <link>../index.php</link>
+  <item>
+    <title>Bienvenidos a Nuestro sitio</title>
+    <link>../welcome.php</link>
+    <ror:about>sitemap</ror:about>
+    <ror:type>SiteMap</ror:type>
+  </item>
+<item>
+     <link>../mail/robottrap.php</link>
+     <title>traps web crawler</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../index.php</link>
+     <title>Bienvenidos a Nuestro sitio</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/robottrap.php</link>
+     <title>spider trap web crawler</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/index.php</link>
+     <title>spider trap seo</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/robottrap.php</link>
+     <title>spider trap security</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/index.php</link>
+     <title>spider trap in big data | Mail</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/robottrap.php</link>
+     <title>spider trap examples | Mail</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/index.php</link>
+     <title>spider trap websites</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>../mail/robottrap.php</link>
+     <title>web spider engine | web crawlers</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://copen.atspace.tv/robot/spiders.php</link>
+     <title>web crawlers podcast</title>
+     <ror:updatePeriod>daily</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</loc>
+  <priority>0.5</priority>
+  <changefreq>daily</changefreq>
+</url>
+</item>
+</channel>
+</rss>
+  

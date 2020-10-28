@@ -1,0 +1,4 @@
+21/10/2020 16:40:44|192.168.0.6|taco-PC|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+21/10/2020 16:41:27|192.168.0.6|taco-PC|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+21/10/2020 16:50:32|192.168.0.6|taco-PC|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|
+21/10/2020 17:09:31|192.168.0.6|taco-PC|Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36|

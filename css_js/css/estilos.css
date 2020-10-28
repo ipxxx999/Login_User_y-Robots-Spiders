@@ -1,0 +1,63 @@
+body {
+
+}
+.icon{
+    min-width: 50px;
+    text-align: center;
+    color: #05A6FC;
+}
+.icon2{
+    min-width: 50px;
+    text-align: center;
+    color: #999;
+}
+.icon3{
+    min-width: 50px;
+    text-align: center;
+    color: #007bff;
+
+}
+.icon4{
+    min-width: 50px;
+    text-align: center;
+    color: #007bff;
+}
+.icon5{
+    min-width: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+.icon6{
+    min-width: 50px;
+    text-align: center;
+    color: #FC6060;
+}
+.icon7{
+    min-width: 50px;
+    text-align: center;
+    color: #1EB404;
+}
+.icon8{
+    min-width: 50px;
+    text-align: center;
+    color: #F4EB41;
+}
+.registro{
+    text-align: center;
+    color: #0a73e4;
+    font-size: 40px;
+}
+.entre{
+    text-align: center;
+    color: #0a73e4;
+    font-size: 18px;
+}
+.estrella{
+    text-align: center;
+    color: #0a73e4;
+    font-size: 20px;
+}
+.espacio1{
+    text-align: center;
+    color: #000000;
+    font-size: 9px;

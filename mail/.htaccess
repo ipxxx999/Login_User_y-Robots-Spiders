@@ -1,0 +1,33 @@
+
+RewriteEngine on
+
+Options -Indexes
+
+
+
+# Cache control
+
+<IfModule mod_headers.c>
+	<FilesMatch ".(js|css|png|jpg|jpeg|gif|ico|html|htm)$">
+		Header set Cache-Control "max-age=3600, public, must-revalidate"
+	</FilesMatch>
+</IfModule>
+
+#<IfModule mod_headers.c>
+#	<FilesMatch ".(html|htm|php)$">
+#		Header set Cache-Control "no-cache"
+#	</FilesMatch>
+#</IfModule>
+
+
+#	No escriba aquí este archivo es una copia original, con una sola ip bloqueada
+#
+#		Puede usar el archivo raíz .htaccess
+#  ANTI-ROBOTS.2htaccess es una copia del archivo raiz .htaccess y ese archivo ANTI-ROBOTS.2htaccess es copia original. Generada automáticamente
+#  al entrar en http://tu sitio web.com/robot/mail/robottrap.php Bloquea la ip en el archivo .htaccess raíz y genera una copia en ANTI-ROBOTS.2htaccess
+#	
+#
+#	Gracias
+
+
+deny from 178.63.34.189

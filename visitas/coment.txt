@@ -1,0 +1,19 @@
+
+
+				// elimina un background
+
+<style>
+  body, html {
+background: none !important;
+}
+</style>
+
+
+				// pone un background
+
+<style>
+body  {
+  background-image: url("./images/1.jpg");
+  background-color: #cccccc;
+}
+</style>

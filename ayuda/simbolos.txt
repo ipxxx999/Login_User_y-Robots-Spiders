@@ -1,0 +1,46 @@
+---------A-----------------------------A
+
+&#193;   Á  A mayúscula con acento agudo
+
+&#225;   á  a minúscula con acento agudo
+
+
+---------E-----------------------------E
+
+
+&#201;   É  E mayúscula con acento agudo
+
+&#233;   é  e minúscula con acento agudo
+
+
+---------I-----------------------------I
+
+&#205;   Í  I mayúscula con acento agudo
+
+&#237;   í  i minúscula con acento agudo
+
+---------O-----------------------------O
+
+&#211;   Ó  O mayúscula con acento agudo
+
+&#243;   ó  o minúscula con acento agudo
+
+
+---------U-----------------------------U
+
+&#218;   Ú  U mayúscula con acento agudo
+
+&#250;   ú  u minúscula con acento agudo
+
+---------U-----------------------------U
+
+&#209;   Ñ  eñe mayúscula
+
+&#241;   ñ  eñe minúscula
+
+
+
+
+
+
+

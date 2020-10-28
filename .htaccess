@@ -1,0 +1,58 @@
+
+RewriteEngine on
+
+Options -Indexes
+
+
+
+# Cache control
+
+<IfModule mod_headers.c>
+	<FilesMatch ".(js|css|png|jpg|jpeg|gif|ico|html|htm)$">
+		Header set Cache-Control "max-age=3600, public, must-revalidate"
+	</FilesMatch>
+</IfModule>
+
+#<IfModule mod_headers.c>
+#	<FilesMatch ".(html|htm|php)$">
+#		Header set Cache-Control "no-cache"
+#	</FilesMatch>
+#</IfModule>
+
+deny from 178.63.34.189
+
+deny from 54.200.205.192
+
+deny from 38.128.157.135
+
+deny from 82.80.230.228
+
+deny from 104.192.74.17
+
+deny from 104.192.74.*
+deny from 103.131.71.179
+deny from 149.154.161.20
+
+deny from 190.94.102.251
+
+deny from 103.131.71.176
+deny from 103.131.71.172
+deny from 181.36.196.252
+deny from 148.0.236.68
+deny from 103.131.71.163
+deny from 103.131.71.173
+deny from 103.131.71.170
+deny from 109.92.26.95
+deny from 103.131.71.171
+deny from 103.131.71.166
+deny from 103.131.71.167
+deny from 103.131.71.168
+deny from 51.91.247.77
+deny from 103.131.71.174
+deny from 103.131.71.175
+deny from 103.131.71.162
+deny from 51.91.247.77
+deny from 103.131.71.164
+deny from 103.131.71.169
+deny from 149.154.161.10
+

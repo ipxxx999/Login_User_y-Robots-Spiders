@@ -1,0 +1,74 @@
+dentro de ayuda. Navega las carpetas a continuación Para encontrar más ayuda
+
+para instalar el sistema ve
+
+setup.html
+
+
+DIRECTORIO MODELO
+En el directorio MODELO encuentras 2 paginas como modelo una en php y otra en html para mostrar usuarios conectados
+
+DIRECTORIO SQL
+hay encontraras la base de datos que nesesitas para tu sitio web
+
+DIRECTORIO ROBOT
+en el directorio robot se encuentra la explicación
+
+
+OCULTA-IMG
+ocultar una imagen. dentro de un php o html
+
+
+//  =====================================================================================
+//    CÓDIGO QUE DEBES PONER EN TODAS TUS PÁGINAS PARA VER LAS VISITAS DE TUS CLIENTES
+//  =====================================================================================
+
+
+<p><iframe src="http://tu_sitio_web.com/robot/visitas/print.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="0" height="0"></iframe>
+
+
+//  =====================================================================================
+//                                 FIN CÓDIGO 
+//  =====================================================================================
+
+1- BUSCA este repertorio www.tu_sitio_web.com/robot/visitas/
+
+2- en los 3 php
+
+visitor.php
+visitor2.php y
+visitor3.php
+
+
+3- BUSCA ESTA LÍNEA
+
+            $directory = $_SERVER['DOCUMENT_ROOT'] . '/robot/visitas/';
+//  ===========================================================================
+
+
+
+
+Y MOFIFICALA SEGUN EN EL DIRECTORIO DONDE quieras usar tus PHP
+
+DEBE MODIFICAR LOS TRES PHP EN ESA LÍNEA
+
+visitor.php
+visitor2.php
+visitor3.php
+
+
+4- EN ESTE MOMENTO SE ENCUENTRAN CONFIGURADOS, DE ESTA FORMA
+
+http://tu_sitio_web.com/ ---->>>>> '/robot/visitas/'
+
+
+ejemplo de arriva 
+
+'/robot/visitas/'
+
+
+Hay otro archivo de ejemplo en 
+
+http://tu_sitio_web.com/robot/ayuda/robot/ver/php/
+
+
